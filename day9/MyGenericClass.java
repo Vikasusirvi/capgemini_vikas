@@ -23,3 +23,5 @@ public class MyGenericClass {
 genericEmployee<String> emp=new genericEmployee<String>("vikas");
 emp.print();
 }}
+git config --global user.email "vikasusirvi1999@gmail.com.com"
+git config --global user.name "Vikas U Sirvi"
